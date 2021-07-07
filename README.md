@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+![Supreet's profile](https://github-readme-stats.vercel.app/api?username=Supreet984)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently a freshman in Computer Science and Engineering.
